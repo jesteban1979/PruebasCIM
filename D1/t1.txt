@@ -4,5 +4,3 @@ Suponiendo que corregí un error
 Suponiendo que esto no debería de ir
 
 Cambio ejemplo GitHub
-
-Esto es la prueba para la rama que se va a crear, esto no debe llegar al main
