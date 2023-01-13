@@ -1,6 +1,2 @@
 t1.txt
-Suponiendo que corregí un error
-
-Suponiendo que esto no debería de ir
-
-Cambio ejemplo GitHub
+Inicia archivo 1
