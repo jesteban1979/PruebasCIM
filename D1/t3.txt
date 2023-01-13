@@ -1,8 +1,2 @@
-t1.txt
-Suponiendo que corregí un error
-<<<<<<< HEAD
-=======
-Suponiendo que esto no debería de ir
-
-Cambio ejemplo GitHub
->>>>>>> e0d8515 (Update t1.txt)
+t3.txt
+Inicia archivo t3
